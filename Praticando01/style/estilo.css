@@ -1,0 +1,37 @@
+* {
+	padding: 1px;
+}
+
+body {
+	background-color: yellow;
+}
+
+h1 {
+	font-family: 'Fascinate', cursive;
+	font-size: 45px;
+	color: red;
+	text-align: center;
+	text-shadow: 0.1em 0.1em #000
+}
+
+p {
+	font-family: 'Fascinate', cursive;
+	font-size: 85px;
+	color: blue;
+	text-align: right;
+	text-shadow: 0.1em 0.2em 0.1em #333
+}
+
+img#imagem01 {
+	width: 500px;
+	margin-top: -240px;
+	margin-left: 200px;
+	border-width: 4px;
+	border-style: inset;
+	border-color: white;
+}
+
+div.box {
+	width: 150px;
+	display: inline-block;
+}

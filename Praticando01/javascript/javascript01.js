@@ -1,0 +1,7 @@
+/*
+<script>
+	alert("Bem-Vindo ao Mundo JavaScript!");
+</script>
+*/
+
+
