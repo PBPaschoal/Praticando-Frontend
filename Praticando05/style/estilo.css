@@ -1,0 +1,11 @@
+* {
+	padding: 1px;
+}
+
+h1 {
+	margin-top: 500px;
+	font-family: 'Smooch', cursive;
+	color: green;
+	text-align: center;
+	text-shadow: 0.2em 0.3em #fff
+}
