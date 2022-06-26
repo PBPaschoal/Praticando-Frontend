@@ -1,0 +1,15 @@
+* {
+	padding: 1px;
+}
+
+body {
+	background-color: red;
+}
+
+h1 {
+	font-family: 'Fascinate', cursive;
+	font-size: 65px;
+	color: white;
+	text-align: left;
+	text-shadow: 0.1em 0.1em #000
+}
