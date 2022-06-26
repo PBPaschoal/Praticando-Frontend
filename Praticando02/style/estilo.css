@@ -1,0 +1,15 @@
+* {
+	padding: 1px;
+}
+
+body {
+	background-color: black;
+}
+
+h1 {
+	font-family: 'Fascinate', cursive;
+	font-size: 45px;
+	color: yellow;
+	text-align: center;
+	text-shadow: 0.1em 0.1em #ff0000
+}
