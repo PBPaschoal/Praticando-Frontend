@@ -1,0 +1,15 @@
+* {
+	padding: 1px;
+}
+
+body {
+	background-color: blue;
+}
+
+h1 {
+	margin-top: 500px;
+	font-family: 'Smooch', cursive;
+	color: red;
+	text-align: right;
+	text-shadow: 0.1em 0.1em #000
+}
