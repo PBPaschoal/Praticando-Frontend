@@ -1,0 +1,63 @@
+/* Alguns testes: sem padrão */
+
+body {
+	background-color: black;
+}
+
+#fundo01 {
+	background-color: red;
+}
+
+#fundo02 {
+	padding: 50px;
+	text-align: center;
+	background-color: white;
+}
+
+#fundo03 {
+	background-color: blue;
+	padding: 100px;
+}
+
+#fundo04 {
+	background-color: green;
+}
+
+#fundo05 {
+	background-color: purple;
+	padding: 2px;
+}
+
+h1 {
+	font-family: 'Splash', cursive;
+	font-size: 50px;
+	text-align: center;
+	color: yellow;
+}
+
+#fundo01 p {
+	color: white;
+	font-family: 'Noto Sans TC', sans-serif;
+}
+
+#fundo02 p, h2 {
+	color: red;
+	font-family: 'Noto Sans TC', sans-serif;
+}
+
+#fundo03 p, h3 {
+	color: white;
+	font-family: 'Splash', cursive;
+}
+
+img {
+	width: 300px;
+}
+
+div.imagensfundo04 {
+	width: 200px;
+	display: inline-block;
+	margin-top: 50px;
+	margin-left: 100px; /* Entre uma imagem e a outra */
+}
+
