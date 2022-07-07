@@ -1,4 +1,4 @@
-# Praticando-Frontend
+# Praticando Front-end 💬
 Front-end: Praticando do básico ao avançado com HTML5, CSS3, JavaScript e outros.&nbsp;
 
 
