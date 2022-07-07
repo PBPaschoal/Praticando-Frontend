@@ -1,0 +1,70 @@
+/* Alguns testes: sem padrão */
+
+body {
+	background-color: red;
+	margin: 0;
+}
+
+#fundo01 {
+	margin-top: -8px;
+	padding: 5px;
+	background-color: black;
+}
+
+#fundo02 {
+	padding: 50px;
+	text-align: center;
+	background-image: url(../imagens/Darth-Vader.jpg);
+}
+
+#fundo03 {
+	background-color: white;
+	padding: 100px;
+}
+
+#fundo04 {
+	background-color: purple;
+}
+
+#fundo05 {
+	background-image: url(../imagens/falcon.webp);
+	padding: 2px;
+}
+
+h1 {
+	font-family: 'Splash', cursive;
+	font-size: 50px;
+	text-align: center;
+	color: yellow;
+}
+
+#fundo01 p {
+	color: white;
+	font-family: 'Noto Sans TC', sans-serif;
+}
+
+#fundo02 p, h2 {
+	color: red;
+	font-family: 'Noto Sans TC', sans-serif;
+}
+
+#fundo03 p, h3 {
+	color: red;
+	font-family: 'Splash', cursive;
+}
+
+#fundo04 p, #fundo05 p {
+	color: white;
+}
+
+img {
+	width: 300px;
+}
+
+div.imagensfundo04 {
+	width: 200px;
+	display: inline-block;
+	margin-top: 50px;
+	margin-left: 100px; /* Entre uma imagem e a outra */
+}
+
