@@ -24,7 +24,7 @@ Front-end: Praticando do básico ao avançado com HTML5, CSS3, JavaScript e outr
 
 * Cursos Livres Estácio: HTML5 E CSS3 – EVOLUA JUNTO COM A WEB.&nbsp;
 
-# MARCAÇÃO | PROGRAMAÇÃO | FRAKMEWORK:
+# MARCAÇÃO | PROGRAMAÇÃO:
 ![HTML](https://i.ibb.co/41fmmJj/html.png)
 ![CSS](https://i.ibb.co/7twStGd/css.png)
 ![JS](https://i.ibb.co/b1f2MYy/javascript.png)
